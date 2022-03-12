@@ -2,8 +2,9 @@
 
 Assigment One IUG.
 
-Name : Wisam Imad.y.Abu Stitan
-Id : 120171623
+Name : Wisam Imad.y.Abu Stitan.
+
+Id : 120171623.
 
 ## Getting Started
 
