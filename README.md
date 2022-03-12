@@ -1,6 +1,9 @@
 # assigment_one_iug
 
-A new Flutter project.
+Assigment One IUG.
+
+Name : Wisam Imad.y.Abu Stitan
+Id : 120171623
 
 ## Getting Started
 
